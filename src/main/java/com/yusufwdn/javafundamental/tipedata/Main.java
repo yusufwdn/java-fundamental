@@ -89,6 +89,6 @@ public class Main {
          * Karena tipe data String merujuk ke instance dari kelas `java.lang.String`.
          */
         User pengguna = new User(); // variabel pengguna berisi objek User
-
+        System.out.println("User = " + pengguna);
     }
 }
