@@ -13,7 +13,7 @@ import java.util.Date;
  * @author USER
  */
 public class Main {
-    public static void main(String args[])
+    public static void main(String []args)
     {
         // Menampilkan "Hello world"
         System.out.println("Hello world");
