@@ -1,12 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.yusufwdn.javafundamental.basic;
+package com.yusufwdn.javafundamental.strukturdasar;
 
 // Pemanggilan kelas dari beberapa package yang berada di dalam com.yusufwdn.javafundamental.basic
-import com.yusufwdn.javafundamental.basic.music.Guitar; // Mengakses kelas spesifik dari package music
-import com.yusufwdn.javafundamental.basic.vehicle.*;    // Mengakses semua kelas pada package vehicle
+import com.yusufwdn.javafundamental.strukturdasar.music.Guitar; // Mengakses kelas spesifik dari package music
+import com.yusufwdn.javafundamental.strukturdasar.vehicle.*;    // Mengakses semua kelas pada package vehicle
 
 // Mengakses library yang berada di folder "lib"
 import org.apache.commons.lang3.time.DateUtils;
